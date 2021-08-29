@@ -1,2 +1,1 @@
 # calculator
-HTML/CSS/JAVASCRIPT CALCULATOR
